@@ -1,8 +1,4 @@
-# React + Vite
+# Mis Notas
+es un app web de guardado de notas 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![mis notas](https://us.123rf.com/450wm/tashka2000/tashka20001301/tashka2000130100170/17601078-notas-adhesivas-amarillas-y-rojas-con-clip-de-papel-en-forma-de-coraz%C3%B3n-en-el-fondo-blanco.jpg){:width="100px"}
